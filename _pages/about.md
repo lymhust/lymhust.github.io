@@ -28,6 +28,18 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='https://github.com/antgroup/antgroup.github.io/blob/main/ai/echomimic/asserts/teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditioning](https://arxiv.org/abs/2407.08136)
+
+Zhiyuan Chen<sup>*</sup>, Jiajiong Cao<sup>*</sup>, Zhiquan Chen, **Yuming Li**, Chenguang Ma
+
+[**project**](https://antgroup.github.io/ai/echomimic/)&emsp;[**code**](https://github.com/antgroup/echomimic)&emsp;<a href='https://github.com/antgroup/echomimic'><img src='https://img.shields.io/github/stars/antgroup/echomimic.svg' width="15%"></a>
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
