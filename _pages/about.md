@@ -22,7 +22,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
-# :chart_with_upwards_trend: Open Source Projects
+# 📈 Open Source Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='https://github.com/antgroup/antgroup.github.io/blob/main/ai/echomimic/asserts/teaser.png?raw=true' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -32,6 +32,18 @@ My research interest includes neural machine translation and computer vision. I 
 Zhiyuan Chen<sup>*</sup>, Jiajiong Cao<sup>*</sup>, Zhiquan Chen, **Yuming Li**, Chenguang Ma
 
 [**project**](https://antgroup.github.io/ai/echomimic/)&emsp;[**code**](https://github.com/antgroup/echomimic)&emsp;<a href='https://github.com/antgroup/echomimic'><img src='https://img.shields.io/github/stars/antgroup/echomimic.svg' width="15%"></a>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='https://github.com/antgroup/antgroup.github.io/blob/main/ai/echomimic_v2/asserts/teaser.png?raw=true' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation](https://arxiv.org/abs/2411.10061)
+
+Rang Meng, Xingyu Zhang, **Yuming Li**, Chenguang Ma
+
+[**project**](https://antgroup.github.io/ai/echomimic_v2/)&emsp;[**code**](https://github.com/antgroup/echomimic_v2)&emsp;<a href='https://github.com/antgroup/echomimic_v2'><img src='https://img.shields.io/github/stars/antgroup/echomimic_v2.svg' width="15%"></a>
 
 </div>
 </div>
