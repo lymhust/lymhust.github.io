@@ -50,21 +50,17 @@ Rang Meng, Xingyu Zhang, **Yuming Li**, Chenguang Ma
 </div>
 </div>
 
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+# 📝 Publications
+**Journal Papers**
+1. L.M. Po, M. Liu, Y.F. Yuen, **Y. Li**, X. Xu, C. Zhou, P.H.W. Wong, K.W. Lau, H.T. Luk. &quot;<a class="dhtgD aw5Odc" href="http://www.google.com/url?q=http%3A%2F%2Fwww.ee.cityu.edu.hk%2F~lmpo%2Fpublications%2F2019_CNN_NRIQA_TCSVT.pdf&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFGPexh49nOsdYKy5tzJKhjOK3LZw" target="_blank">A Novel Patch Variance Biased Convolution Neural Network for No-Reference Image Quality Assessment</a>,&quot; IEEE Trans. on Circuits and Systems for Video Technology (2019).
+2. M. Liu, L. M. Po, YAU Rehman, X. Xu, **Y. Li**, L. Feng, &quot;<a class="dhtgD aw5Odc" href="https://www.google.com/url?q=https%3A%2F%2Fwww.researchgate.net%2Fpublication%2F327536741_Video_copy_detection_by_conducting_fast_searching_of_inverted_files&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFiuMwRqSa61O3UZLoAR0c-bKVVhA" target="_blank">Video copy detection by conducting fast searching of inverted files</a>,&quot; Multimedia Tools and Applications (2018): 1-24.
+3. L.M. Po, L. Feng, **Y. Li**, X. Xu, C.H. Cheung, K.W. Cheung, &quot;<a class="dhtgD aw5Odc" href="http://www.google.com/url?q=http%3A%2F%2Fwww.ee.cityu.edu.hk%2F~lmpo%2Fpublications%2F2017_MTA_ROI_VPPG.pdf&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEWqDIK-AfKU6iFX18wlKDMuqPNRA" target="_blank">Block-based adaptive ROI for remote photoplethysmography</a>,&quot; Multimedia Tools and Applications 77.6 (2018): 6503-6529.
+4. L. Feng, L.M. Po, **Y. Li**, F. Yuan, <a class="dhtgD aw5Odc" href="http://www.google.com/url?q=http%3A%2F%2Fwww.ee.cityu.edu.hk%2F~lmpo%2Fpublications%2F2017_JEI_face_liveness.pdf&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNH3Yo3XMB-xMdlqtOMgkGl1q0kKwQ" target="_blank">Face liveness detection using shearlet based feature descriptors</a>,&quot; Journal of Electronic Imaging, 25(4), August 2016. (<a class="dhtgD aw5Odc" href="https://www.youtube.com/watch?v=t4O2bbF61Tk" target="_blank">Youtube Demo</a>)
+5. L. Feng, L.M. Po, **Y. Li**, X. Xu, F. Yuan, C.H. Cheung, K.W. Cheung, &quot;<a class="dhtgD aw5Odc" href="http://www.google.com/url?q=http%3A%2F%2Fwww.ee.cityu.edu.hk%2F~lmpo%2Fpublications%2F2016_Jouranl_VCIR_Face_Liveness.pdf&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFB3BHigbLvaMQkcMNAfWqEUINS4w" target="_blank">Integration of Image Quality and Motion Cues for Face Anti-Spoofing: a Neural Network Approach</a>,&quot; Journal of Visual Communication and Image Representation, Volume 38, pp. 451-460, July 2016. (<a class="dhtgD aw5Odc" href="https://www.youtube.com/watch?v=151USnKDKZY&amp;feature=youtu.be" target="_blank">Youtube Demo</a>)
+6. **Y. Li**, L.M. Po, C.H. Cheung, X. Xu, L. Feng, F. Yuan, K.W. Cheung, &quot;<a class="dhtgD aw5Odc" href="http://www.google.com/url?q=http%3A%2F%2Fwww.ee.cityu.edu.hk%2F~lmpo%2Fpublications%2F2015_IEEE_TCSVT_VQA.pdf&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHCWEPC-193St1PGDxtIaLQVPyiBQ" target="_blank">No-Reference Video Quality Assessment with 3D Shearlet Transform and Convolutional Neural Networks</a>,&quot; IEEE Trans. on Circuits and Systems for Video Technology, Vol. 26, Issue 6, pp. 1044-1057, June 2015.
+7. **Y. Li**, L.M. Po, X. Xu, L. Feng, F. Yuan, C.H. Cheung, K.W. Cheung, &quot;<a class="dhtgD aw5Odc" href="http://www.google.com/url?q=http%3A%2F%2Fwww.ee.cityu.edu.hk%2F~lmpo%2Fpublications%2F2015_Neurocomputing_IQA.pdf&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHlehu-WoSHbtI4NVDU7_sFHBOKdA" target="_blank">No-reference image quality assessment with shearlet transform and deep neural networks</a>,&quot; Neurocomputing, Volume 154, Pages 94–109, April 2015.
+8. L. Feng, L.M. Po, X. Xu, **Y. Li**, R. Ma, &quot;<a class="dhtgD aw5Odc" href="http://www.google.com/url?q=http%3A%2F%2Fwww.ee.cityu.edu.hk%2F~lmpo%2Fpublications%2F2015_IEEE_TCSVT_rPPG.pdf&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEwdAzcXqOBMrksXVQcRhbXS6aF-g" target="_blank">Motion Resistant Remote Imaging Photoplethysmography Based on Optical Properties of Skin</a>,&quot; IEEE Trans. on Circuits and Systems for Video Technology, Vol. 25, Issue 5, pp. 879-891, October 2014.
+9. **Y. Li**, L.M. Po, X. Xu, L. Feng, &quot;<a class="dhtgD aw5Odc" href="http://www.google.com/url?q=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0923596514000873&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGqxGM-c35EHTXJsB7SfQL_PAFH1A" target="_blank">No-reference image quality assessment using statistical characterization in the shearlet domain</a>,&quot; Signal Processing: Image Communication, Vol. 29, Issue 7, pp. 748-75, August 2014.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
