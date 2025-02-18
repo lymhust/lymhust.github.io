@@ -28,7 +28,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='https://github.com/antgroup/antgroup.github.io/blob/main/ai/echomimic/asserts/teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='https://github.com/antgroup/antgroup.github.io/blob/main/ai/echomimic/asserts/teaser.png?raw=true' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditioning](https://arxiv.org/abs/2407.08136)
