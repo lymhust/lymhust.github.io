@@ -24,7 +24,7 @@ redirect_from:
 - *2016.07-2017.11*, Researcher, Autonomous Driving Lab, Tencent.
 - *2015.03-2015.08*, Visiting Scholar, Brain Matrix Lab , Tsinghua University.
 
-# ☑️ Project Experience
+# 📄 Project Experience
 - *2023.09-present*, **AIGC Related**. Video Generation, Audio-Driven Talking Human, High-Quality Image Generation, Poster Generation etc.
 - *2022.01-2023.09*, **Scene Digitization**. Human ReID, Small Object Detection and Recognization, 3D Reconstruction and Retrival etc.
 - *2020.12-present*, **Face Related**. Liveness Detection, Emotion Detection, Face Detection etc.
@@ -118,5 +118,5 @@ Rang Meng, Xingyu Zhang, **Yuming Li**, Chenguang Ma
 # 💬 Invited Talks
 - *2024.09*, "Audio-driven AIGC Digital Human." Inclusion 2024 (外滩大会). ([Link](https://mp.weixin.qq.com/s/nAKTd6w-7gExlbVo2IWhoQ)) 
 
-# ☀️ Interests
-- The Book of Changes (周易)☯️, Quantitative Trading📈, Throwing Cards (飞牌)♠️.
+# 🔅 Interests
+- The Book of Changes (周易)☯️, Quantitative Trading💹, Throwing Cards (飞牌)♠️.
