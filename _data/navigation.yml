@@ -4,25 +4,25 @@ main:
     url: "/#profile"
 
   - title: "Educations"
-    url: "/#educations"
+    url: "/#-educations"
 
   - title: "Work Experience"
-    url: "/#work-experience"
+    url: "/#-work-experience"
 
   - title: "Project Experience"
-    url: "/#project-experience"
+    url: "/#-project-experience"
 
   - title: "Open Source Projects"
-    url: "/#open-source-projects"
+    url: "/#-open-source-projects"
 
   - title: "Publications"
-    url: "/#publications"
+    url: "/#-publications"
 
   - title: "Research Projects"
-    url: "/#research-projects"
+    url: "/#-research-projects"
 
   - title: "Invited Talks"
-    url: "/#invited-talks"
+    url: "/#-invited-talks"
 
   - title: "Interests"
-    url: "/#interests"
+    url: "/#-interests"
