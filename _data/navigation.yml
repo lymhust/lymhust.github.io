@@ -10,7 +10,7 @@ main:
     url: "/#-work-experience"
 
   - title: "Project Experience"
-    url: "/#-project-experience"
+    url: "/#%EF%B8%8F-project-experience"
 
   - title: "Open Source Projects"
     url: "/#-open-source-projects"
@@ -25,4 +25,4 @@ main:
     url: "/#-invited-talks"
 
   - title: "Interests"
-    url: "/#-interests"
+    url: "/#%EF%B8%8F-interests"
