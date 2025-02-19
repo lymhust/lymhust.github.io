@@ -31,7 +31,6 @@ redirect_from:
 - *2016.07-2020.11*, **Autonomous Driving**. Traffic Scene Detection and Recognition etc.
 - *2010.09-2016.07*, **Shearlet Related and Biological Signal Processing**. Image/Video Quality Assessment, Livness Detection, PPG Application etc. 
 
-
 # 📈 Open Source Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/echomimic.png' alt="sym" width="100%"></div></div>
