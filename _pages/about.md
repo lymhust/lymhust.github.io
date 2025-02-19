@@ -18,11 +18,19 @@ redirect_from:
 - *2011.09-2013.06*, M.E. Dept. of Electronic Engineering, Huazhong University of Science and Technology.
 - *2007.09-2011.06*, B.E. Dept. of Electronic Engineering, Huazhong University of Science and Technology.
 
-# 💻 Experience
-- *2020.12-present*, Staff Engineer, Alipay Biometric Group, Ant Group.
+# 💻 Work Experience
+- *2020.12-present*, Staff Engineer, Alipay Terminal Technology Department, Ant Group.
 - *2017.12-2020.12*, Researcher, Deep Learning Group, MiniEye.
 - *2016.07-2017.11*, Researcher, Autonomous Driving Lab, Tencent.
 - *2015.03-2015.08*, Visiting Scholar, Brain Matrix Lab , Tsinghua University.
+
+# ☑️ Project Experience
+- *2023.09-present*, **AIGC Related**. Video Generation, Audio-Driven Talking Human, High-Quality Image Generation, Poster Generation etc.
+- *2022.01-2023.09*, **Scene Digitization**. Human ReID, Small Object Detection and Recognization, 3D Reconstruction and Retrival etc.
+- *2020.12-present*, **Face Related**. Liveness Detection, Emotion Detection, Face Detection etc.
+- *2016.07-2020.11*, **Autonomous Driving**. Traffic Scene Detection and Recognition etc.
+- *2010.09-2016.07*, **Shearlet Related and Biological Signal Processing**. Image/Video Quality Assessment, Livness Detection, PPG Application etc. 
+
 
 # 📈 Open Source Projects
 
@@ -104,13 +112,8 @@ Rang Meng, Xingyu Zhang, **Yuming Li**, Chenguang Ma
 17. 王珏, 王斌, <strong>李宇明</strong>, 邢腾飞, 李成军, 苏奎峰, 陈仁, 向南, <a href="https://patentimages.storage.googleapis.com/5c/7d/33/175d4b224d94c0/CN108804983A.pdf">"交通信号灯状态识别方法、装置、车载控制终端及机动车"</a>, CN Patent, 108804983B, 2018. (granted)
 邢腾飞, <strong>李宇明</strong>, 王珏, 王斌, <a href="https://patentimages.storage.googleapis.com/ff/dc/71/6501f3cd278be3/CN108305475B.pdf">"一种交通灯识别方法及装置"</a>, CN Patent, 108305475B, 2018. (granted)
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.09*, "Audio-driven AIGC Digital Human." Inclusion 2024 (外滩大会). ([Link](https://mp.weixin.qq.com/s/nAKTd6w-7gExlbVo2IWhoQ)) 
 
-#  Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+#  Interests
+- The Book of Changes (周易)☯️, Quantitative Trading📈, Throwing Cards (飞牌)♠️.
