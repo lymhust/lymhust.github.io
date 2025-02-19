@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='profile'></span>
 
 <p></p><div style="text-align:justify"> Yuming obtained his B.E. and M.E. degrees from Dept. of Electronic Engineering,  <a href="http://english.hust.edu.cn/">Huazhong University of Science and Technology</a> in 2011 and 2013 respectively, under the supervision of <a href="http://ei.hust.edu.cn/professor/caohanqiang/">Prof. Hanqiang CAO</a>. He obtained his PhD degree from Dept. of Electronic Engineering, <a href="https://www.cityu.edu.hk/">City University of Hong Kong</a> in 2016, under the supervision of <a href="http://www.ee.cityu.edu.hk/~lmpo/">Prof. Lai-Man PO</a>. He is currently a  staff engineer at <a href="https://www.antgroup.com/en">Ant Group</a>.</div>
 <p></p>
@@ -112,8 +112,12 @@ Rang Meng, Xingyu Zhang, **Yuming Li**, Chenguang Ma
 17. 王珏, 王斌, <strong>李宇明</strong>, 邢腾飞, 李成军, 苏奎峰, 陈仁, 向南, <a href="https://patentimages.storage.googleapis.com/5c/7d/33/175d4b224d94c0/CN108804983A.pdf">"交通信号灯状态识别方法、装置、车载控制终端及机动车"</a>, CN Patent, 108804983B, 2018. (granted)
 邢腾飞, <strong>李宇明</strong>, 王珏, 王斌, <a href="https://patentimages.storage.googleapis.com/ff/dc/71/6501f3cd278be3/CN108305475B.pdf">"一种交通灯识别方法及装置"</a>, CN Patent, 108305475B, 2018. (granted)
 
+# 🔍 Research Projects
+- *2018*, Core Member, "Multisensor Fusion and Big Data-based Perception System for Autonomous Driving Vehicle." Peacock Team Funding Fund of Shenzhen City.
+- *2019*, Core Member, "Research and Application of High-Performance and High-Reliability Domain Controller System." Guangdong Provincial Key Research and Development Project.
+
 # 💬 Invited Talks
 - *2024.09*, "Audio-driven AIGC Digital Human." Inclusion 2024 (外滩大会). ([Link](https://mp.weixin.qq.com/s/nAKTd6w-7gExlbVo2IWhoQ)) 
 
-#  Interests
+# ☀️ Interests
 - The Book of Changes (周易)☯️, Quantitative Trading📈, Throwing Cards (飞牌)♠️.
