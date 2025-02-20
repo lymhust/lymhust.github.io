@@ -119,4 +119,4 @@ Rang Meng, Xingyu Zhang, **Yuming Li**, Chenguang Ma
 
 # 🔅 Interests
 - The Book of Changes (周易)☯️, Quantitative Trading💹, Throwing Cards (飞牌)♠️.
-- I have been experiencing some confusion regarding certain hexagrams (䷈䷘䷝). If you have a unique and insightful understanding of these hexagrams, I would be willing to pay for your consultation. Please feel free to contact me.
+- I have been experiencing some confusion regarding certain hexagrams (䷈小畜,䷘无妄,䷝离). If you have a unique and insightful understanding of these hexagrams, I would be willing to pay for your consultation. Please feel free to contact me.
