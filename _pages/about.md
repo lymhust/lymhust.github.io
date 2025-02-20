@@ -10,8 +10,7 @@ redirect_from:
 
 <span class='anchor' id='profile'></span>
 
-<p></p><div style="text-align:justify"> Yuming obtained his B.E. and M.E. degrees from Dept. of Electronic Engineering,  <a href="http://english.hust.edu.cn/">Huazhong University of Science and Technology</a> in 2011 and 2013 respectively, under the supervision of <a href="http://ei.hust.edu.cn/professor/caohanqiang/">Prof. Hanqiang CAO</a>. He obtained his PhD degree from Dept. of Electronic Engineering, <a href="https://www.cityu.edu.hk/">City University of Hong Kong</a> in 2016, under the supervision of <a href="http://www.ee.cityu.edu.hk/~lmpo/">Prof. Lai-Man PO</a>. He is currently a  staff engineer at <a href="https://www.antgroup.com/en">Ant Group</a>.</div>
-<p></p>
+<div style="text-align:justify"> Yuming obtained his B.E. and M.E. degrees from Dept. of Electronic Engineering,  <a href="http://english.hust.edu.cn/">Huazhong University of Science and Technology</a> in 2011 and 2013 respectively, under the supervision of <a href="http://ei.hust.edu.cn/professor/caohanqiang/">Prof. Hanqiang CAO</a>. He obtained his PhD degree from Dept. of Electronic Engineering, <a href="https://www.cityu.edu.hk/">City University of Hong Kong</a> in 2016, under the supervision of <a href="http://www.ee.cityu.edu.hk/~lmpo/">Prof. Lai-Man PO</a>. He is currently a  staff engineer at <a href="https://www.antgroup.com/en">Ant Group</a>.</div>
 
 # 📖 Educations
 - *2013.09-2016.07*, Ph.D. Dept. of Electronic Engineering, City University of Hong Kong.
