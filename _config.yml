@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuming LI"
-description              : "Staff Engineer, Ant Group. PhD, CityU HK."
+description              : "天下何思何虑？天下同归而殊途，一致而百虑。天下何思何虑？"
 repository               : "lymhust/lymhust.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuming LI (李宇明)"
   avatar           : "images/yuming.jpg"
-  bio              : "Ant Group"
+  bio              : "Staff Engineer, Ant Group. PhD, CityU HK."
   location         : "Beijing, China"
   employer         :
   pubmed           : 
