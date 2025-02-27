@@ -44,7 +44,7 @@ Zhiyuan Chen<sup>*</sup>, Jiajiong Cao<sup>*</sup>, Zhiquan Chen, **Yuming Li**,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/echomimic_v2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/echomimic_v2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation](https://arxiv.org/abs/2411.10061)
