@@ -88,7 +88,7 @@ Rang Meng, Xingyu Zhang, **Yuming Li**, Chenguang Ma
 4. Lou, J., Luo, W., Liu, Y., Li, B., Ding, X., Hu, W., **Li, Y.**, Ma, C. "[Token Caching for Diffusion Transformer Acceleration.](https://arxiv.org/abs/2409.18523)" arXiv preprint arXiv:2409.18523 (2024).
 
 **Others**
-1. 张默, **李宇明**, 史宗明 "[基于人工智能深度学习的腹针穴位辅助定位系统的研发.](https://zgze.cbpt.cnki.net/portal/journal/portal/client/index)" 中国针灸 45.3 (2025).
+1. 张默, **李宇明**, 史宗明 "[基于人工智能深度学习的腹针穴位辅助定位系统的研发.](https://zgze.cbpt.cnki.net/portal/journal/portal/client/paper/a4f3630803a82a36880bdb4b794ed270)" 中国针灸, Vol. 45, Issue 3, pp. 391-396, March 2025.
    
 **Patents**
 1. <strong>李宇明</strong>, 朱军, 丁菁汀, 李亮,  <a href="https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui">"活体检测模型的训练方法、活体检测方法和系统"</a>,  CN Patent, 116468113A, 2023.
