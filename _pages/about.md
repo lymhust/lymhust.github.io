@@ -117,7 +117,7 @@ Rang Meng, Xingyu Zhang, **Yuming Li**, Chenguang Ma
 
 # 💬 Invited Talks
 - *2024.09*, "Audio-driven AIGC Digital Human." Inclusion 2024 (外滩大会). ([Link](https://mp.weixin.qq.com/s/nAKTd6w-7gExlbVo2IWhoQ))
-- *2025.04*, "EchoMimic: Generative Digital Human Technology and Applications." QCon 2025 (全球软件开发大会). ([Link](https://static001.geekbang.org/con/156/pdf/1134793270/file/%E6%9D%8E%E5%AE%87%E6%98%8E-EchoMimic_%E5%A4%9A%E6%A8%A1%E6%80%81%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%A9%B1%E5%8A%A8%E4%B8%8B%E7%9A%84%E7%94%9F%E6%88%90%E5%BC%8F%E6%95%B0%E5%AD%97%E4%BA%BA%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%BA%94%E7%94%A8.pdf)) 
+- *2025.04*, "EchoMimic: Generative Digital Human Technology and Applications." QCon 2025 (全球软件开发大会). ([PPT](https://static001.geekbang.org/con/156/pdf/1134793270/file/%E6%9D%8E%E5%AE%87%E6%98%8E-EchoMimic_%E5%A4%9A%E6%A8%A1%E6%80%81%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%A9%B1%E5%8A%A8%E4%B8%8B%E7%9A%84%E7%94%9F%E6%88%90%E5%BC%8F%E6%95%B0%E5%AD%97%E4%BA%BA%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%BA%94%E7%94%A8.pdf), [Link](https://mp.weixin.qq.com/s/QmZuUSUw1gogKe5OHAYvcg)) 
 
 # 🔅 Interests
 - The Book of Changes (周易)☯️, Quantitative Trading💹, Throwing Cards (飞牌)♠️.
