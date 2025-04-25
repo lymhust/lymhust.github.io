@@ -112,12 +112,12 @@ Rang Meng, Xingyu Zhang, **Yuming Li**, Chenguang Ma
 邢腾飞, <strong>李宇明</strong>, 王珏, 王斌, <a href="https://patentimages.storage.googleapis.com/ff/dc/71/6501f3cd278be3/CN108305475B.pdf">"一种交通灯识别方法及装置"</a>, CN Patent, 108305475B, 2018. (granted)
 
 # 🔍 Research Projects
-- *2018*, Core Member, "Multisensor Fusion and Big Data-based Perception System for Autonomous Driving Vehicle." Peacock Team Funding Fund of Shenzhen City.
 - *2019*, Core Member, "Research and Application of High-Performance and High-Reliability Domain Controller System." Guangdong Provincial Key Research and Development Project.
+- *2018*, Core Member, "Multisensor Fusion and Big Data-based Perception System for Autonomous Driving Vehicle." Peacock Team Funding Fund of Shenzhen City.
 
 # 💬 Invited Talks
-- *2024.09*, "Audio-driven AIGC Digital Human." Inclusion 2024 (外滩大会). ([Link](https://mp.weixin.qq.com/s/nAKTd6w-7gExlbVo2IWhoQ))
 - *2025.04*, "EchoMimic: Generative Digital Human Technology and Applications." QCon 2025 (全球软件开发大会). ([PPT](https://static001.geekbang.org/con/156/pdf/1134793270/file/%E6%9D%8E%E5%AE%87%E6%98%8E-EchoMimic_%E5%A4%9A%E6%A8%A1%E6%80%81%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%A9%B1%E5%8A%A8%E4%B8%8B%E7%9A%84%E7%94%9F%E6%88%90%E5%BC%8F%E6%95%B0%E5%AD%97%E4%BA%BA%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%BA%94%E7%94%A8.pdf), [Link](https://mp.weixin.qq.com/s/QmZuUSUw1gogKe5OHAYvcg)) 
+- *2024.09*, "Audio-driven AIGC Digital Human." Inclusion 2024 (外滩大会). ([Link](https://mp.weixin.qq.com/s/nAKTd6w-7gExlbVo2IWhoQ))
 
 # 🔅 Interests
 - The Book of Changes (周易)☯️, Quantitative Trading💹, Throwing Cards (飞牌)♠️.
