@@ -109,7 +109,7 @@ Rang Meng, Xingyu Zhang, **Yuming Li**, Chenguang Ma
 15. L. M. Po, M. Liu, Y. F. Yuen, <strong>Y. Li</strong>, Xu, X. Xu, et al, <a href="https://patentimages.storage.googleapis.com/d0/35/a6/26f6433b394940/US10789696.pdf">"Patch selection for neural network based no-reference image quality assessment"</a>, US Patent, 10789696B2, 2019. (granted)
 16. 布礼文, 刘孟洋, 袁耀辉, <strong>李宇明</strong>, 徐叙远等, <a href="http://www.soopat.com/Patent/201810798523">"用于训练神经网络的图像块的选择方法及图像质量评价方法"</a>, CN Patent, 110599439A, 2019.
 17. 王珏, 王斌, <strong>李宇明</strong>, 邢腾飞, 李成军, 苏奎峰, 陈仁, 向南, <a href="https://patentimages.storage.googleapis.com/5c/7d/33/175d4b224d94c0/CN108804983A.pdf">"交通信号灯状态识别方法、装置、车载控制终端及机动车"</a>, CN Patent, 108804983B, 2018. (granted)
-邢腾飞, <strong>李宇明</strong>, 王珏, 王斌, <a href="https://patentimages.storage.googleapis.com/ff/dc/71/6501f3cd278be3/CN108305475B.pdf">"一种交通灯识别方法及装置"</a>, CN Patent, 108305475B, 2018. (granted)
+18. 邢腾飞, <strong>李宇明</strong>, 王珏, 王斌, <a href="https://patentimages.storage.googleapis.com/ff/dc/71/6501f3cd278be3/CN108305475B.pdf">"一种交通灯识别方法及装置"</a>, CN Patent, 108305475B, 2018. (granted)
 
 # 🔍 Research Projects
 - *2019*, Core Member, "Research and Application of High-Performance and High-Reliability Domain Controller System." Guangdong Provincial Key Research and Development Project.
