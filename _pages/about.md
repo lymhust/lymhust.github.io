@@ -97,7 +97,7 @@ Rang Meng, Xingyu Zhang, **Yuming Li**, Chenguang Ma
 3. <strong>李宇明</strong>, 丁菁汀, 李亮,  <a href="https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui">"活体检测方法及系统"</a>,  CN Patent, 116189317A, 2023.
 4. <strong>李宇明</strong>, 丁菁汀, 李亮,  <a href="https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui">"攻击对象检测方法及装置、介质、设备及产品"</a>,  CN Patent, 115482589A, 2022.
 5. <strong>李宇明</strong>, 丁菁汀, 李亮,  <a href="https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui">"一种活体检测方法、装置、设备及介质"</a>,  CN Patent, 114821824A, 2022.
-6. <strong>李宇明</strong>,  <a href="https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui">"活体检测方法、装置、设备及系统"</a>,  CN Patent, 114696988A, 2022.
+6. <strong>李宇明</strong>,  <a href="https://patentimages.storage.googleapis.com/dd/e1/1a/3b716ebd3d679c/CN114696988A.pdf">"活体检测方法、装置、设备及系统"</a>,  CN Patent, 114696988B, 2022. (granted)
 7. <strong>李宇明</strong>, 刘国清, 郑伟, 杨广,  <a href="http://www.soopat.com/Patent/202010972488">"车道线实例聚类方法、装置、电子设备和存储介质"</a>,  CN Patent, 112084988B, 2020. (granted)
 8. <strong>李宇明</strong>, 刘国清, 郑伟, 杨广,  <a href="http://www.soopat.com/Patent/202011184329">"基于特征空间的车道线处理方法、装置、车载终端和介质"</a>,  CN Patent, 112001378B, 2020. (granted)
 9. <strong>李宇明</strong>, 刘国清, 董颖, 郑伟, 杨广,  <a href="http://www.soopat.com/Patent/202011012948">"车辆盲区检测处理方法、装置、车载终端和存储介质"</a>,  CN Patent, 111923857B, 2020. (granted)
