@@ -39,7 +39,7 @@ redirect_from:
 
 Rang Meng, Yan Wang, Weipeng Wu, Ruobing Zheng, **Yuming Li**, Chenguang Ma
 
-[**project**](https://antgroup.github.io/ai/echomimic_v3/)&emsp;[**code**](https://github.com/antgroup/echomimic_v3)&emsp;<a href='https://github.com/antgroup/echomimic_v3'><img src='https://img.shields.io/github/stars/antgroup/echomimic_v3.svg' width="15%"></a>
+[**project**](https://antgroup.github.io/ai/echomimic_v3/)&emsp;[**code**](https://github.com/antgroup/echomimic_v3)&emsp;<a href='https://github.com/antgroup/echomimic_v3'><img src='https://img.shields.io/github/stars/antgroup/echomimic_v3.svg' height="15%"></a>
 
 </div>
 </div>
@@ -51,7 +51,7 @@ Rang Meng, Yan Wang, Weipeng Wu, Ruobing Zheng, **Yuming Li**, Chenguang Ma
 
 Rang Meng, Xingyu Zhang, **Yuming Li**, Chenguang Ma
 
-[**project**](https://antgroup.github.io/ai/echomimic_v2/)&emsp;[**code**](https://github.com/antgroup/echomimic_v2)&emsp;<a href='https://github.com/antgroup/echomimic_v2'><img src='https://img.shields.io/github/stars/antgroup/echomimic_v2.svg' width="15%"></a>
+[**project**](https://antgroup.github.io/ai/echomimic_v2/)&emsp;[**code**](https://github.com/antgroup/echomimic_v2)&emsp;<a href='https://github.com/antgroup/echomimic_v2'><img src='https://img.shields.io/github/stars/antgroup/echomimic_v2.svg' height="15%"></a>
 
 </div>
 </div>
@@ -63,7 +63,7 @@ Rang Meng, Xingyu Zhang, **Yuming Li**, Chenguang Ma
 
 Zhiyuan Chen<sup>*</sup>, Jiajiong Cao<sup>*</sup>, Zhiquan Chen, **Yuming Li**, Chenguang Ma
 
-[**project**](https://antgroup.github.io/ai/echomimic/)&emsp;[**code**](https://github.com/antgroup/echomimic)&emsp;<a href='https://github.com/antgroup/echomimic'><img src='https://img.shields.io/github/stars/antgroup/echomimic.svg' width="15%"></a>
+[**project**](https://antgroup.github.io/ai/echomimic/)&emsp;[**code**](https://github.com/antgroup/echomimic)&emsp;<a href='https://github.com/antgroup/echomimic'><img src='https://img.shields.io/github/stars/antgroup/echomimic.svg' height="15%"></a>
 
 </div>
 </div>
