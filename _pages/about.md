@@ -32,7 +32,7 @@ redirect_from:
 
 # 📈 Highlighted Open Source Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiV</div><img src='images/echomimic_v3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/echomimic_v3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [EchoMimicV3: 1.3 B Parameters are All You Need for Unified Multi-Modal and Multi-Task Human Animation](https://arxiv.org/pdf/2507.03905)
