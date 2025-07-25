@@ -32,14 +32,14 @@ redirect_from:
 
 # 📈 Highlighted Open Source Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/echomimic.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiV</div><img src='images/echomimic_v3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditioning](https://arxiv.org/abs/2407.08136)
+[EchoMimicV3: 1.3 B Parameters are All You Need for Unified Multi-Modal and Multi-Task Human Animation](https://arxiv.org/pdf/2507.03905)
 
-Zhiyuan Chen<sup>*</sup>, Jiajiong Cao<sup>*</sup>, Zhiquan Chen, **Yuming Li**, Chenguang Ma
+Rang Meng, Yan Wang, Weipeng Wu, Ruobing Zheng, **Yuming Li**, Chenguang Ma
 
-[**project**](https://antgroup.github.io/ai/echomimic/)&emsp;[**code**](https://github.com/antgroup/echomimic)&emsp;<a href='https://github.com/antgroup/echomimic'><img src='https://img.shields.io/github/stars/antgroup/echomimic.svg' width="15%"></a>
+[**project**](https://antgroup.github.io/ai/echomimic_v3/)&emsp;[**code**](https://github.com/antgroup/echomimic_v3)&emsp;<a href='https://github.com/antgroup/echomimic_v3'><img src='https://img.shields.io/github/stars/antgroup/echomimic_v3.svg' width="15%"></a>
 
 </div>
 </div>
@@ -52,6 +52,18 @@ Zhiyuan Chen<sup>*</sup>, Jiajiong Cao<sup>*</sup>, Zhiquan Chen, **Yuming Li**,
 Rang Meng, Xingyu Zhang, **Yuming Li**, Chenguang Ma
 
 [**project**](https://antgroup.github.io/ai/echomimic_v2/)&emsp;[**code**](https://github.com/antgroup/echomimic_v2)&emsp;<a href='https://github.com/antgroup/echomimic_v2'><img src='https://img.shields.io/github/stars/antgroup/echomimic_v2.svg' width="15%"></a>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/echomimic.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditioning](https://arxiv.org/abs/2407.08136)
+
+Zhiyuan Chen<sup>*</sup>, Jiajiong Cao<sup>*</sup>, Zhiquan Chen, **Yuming Li**, Chenguang Ma
+
+[**project**](https://antgroup.github.io/ai/echomimic/)&emsp;[**code**](https://github.com/antgroup/echomimic)&emsp;<a href='https://github.com/antgroup/echomimic'><img src='https://img.shields.io/github/stars/antgroup/echomimic.svg' width="15%"></a>
 
 </div>
 </div>
@@ -86,7 +98,8 @@ Rang Meng, Xingyu Zhang, **Yuming Li**, Chenguang Ma
 15. **Y. Li**, H. Cao, Z. Xu, &#39;&#39;<a class="dhtgD aw5Odc" href="http://www.google.com/url?q=http%3A%2F%2Fproceedings.spiedigitallibrary.org%2Fproceeding.aspx%3Farticleid%3D1266265&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEF5K-e0VCPHVTVdoP_BDz5FQTVow" target="_blank">An edge detection method for strong noisy image using shearlets</a>.&#39;&#39; Seventh International Symposium on Multispectral Image Processing and Pattern Recognition, November 2011.
 
 **ArXiv Papers**
-1. Lou, J., Luo, W., Liu, Y., Li, B., Ding, X., Hu, W., **Li, Y.**, Ma, C. "[Token Caching for Diffusion Transformer Acceleration.](https://arxiv.org/abs/2409.18523)" arXiv preprint arXiv:2409.18523 (2024).
+1. Meng, R., Wang, Y., Wu, W., Zheng, R., **Li, Y.**, & Ma, C. "[EchoMimicV3: 1.3 B Parameters are All You Need for Unified Multi-Modal and Multi-Task Human Animation.](https://arxiv.org/pdf/2507.03905)" arXiv preprint arXiv:2507.03905 (2025).
+2. Lou, J., Luo, W., Liu, Y., Li, B., Ding, X., Hu, W., **Li, Y.**, Ma, C. "[Token Caching for Diffusion Transformer Acceleration.](https://arxiv.org/abs/2409.18523)" arXiv preprint arXiv:2409.18523 (2024).
 
 **Others**
 1. 张默, **李宇明**, 史宗明 "[基于人工智能深度学习的腹针穴位辅助定位系统的研发.](https://zgze.cbpt.cnki.net/portal/journal/portal/client/paper/a4f3630803a82a36880bdb4b794ed270)" 中国针灸, Vol. 45, Issue 3, pp. 391-396, March 2025.
