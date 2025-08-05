@@ -37,7 +37,7 @@ redirect_from:
   
 [EchoMimicV3: 1.3 B Parameters are All You Need for Unified Multi-Modal and Multi-Task Human Animation](https://arxiv.org/pdf/2507.03905)
 
-Rang Meng, Yan Wang, Weipeng Wu, Ruobing Zheng, **Yuming Li**, Chenguang Ma
+Rang Meng, Yan Wang, Weipeng Wu, Ruobing Zheng, **Yuming Li**<sup>✉</sup>, Chenguang Ma<sup>✉</sup>
 
 [**project**](https://antgroup.github.io/ai/echomimic_v3/)&emsp;[**code**](https://github.com/antgroup/echomimic_v3)&emsp;<a href='https://github.com/antgroup/echomimic_v3'><img src='https://img.shields.io/github/stars/antgroup/echomimic_v3.svg' height="15%"></a>
 
@@ -49,7 +49,7 @@ Rang Meng, Yan Wang, Weipeng Wu, Ruobing Zheng, **Yuming Li**, Chenguang Ma
   
 [EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation](https://arxiv.org/abs/2411.10061)
 
-Rang Meng, Xingyu Zhang, **Yuming Li**, Chenguang Ma
+Rang Meng, Xingyu Zhang, **Yuming Li**<sup>✉</sup>, Chenguang Ma<sup>✉</sup>
 
 [**project**](https://antgroup.github.io/ai/echomimic_v2/)&emsp;[**code**](https://github.com/antgroup/echomimic_v2)&emsp;<a href='https://github.com/antgroup/echomimic_v2'><img src='https://img.shields.io/github/stars/antgroup/echomimic_v2.svg' height="15%"></a>
 
@@ -61,7 +61,7 @@ Rang Meng, Xingyu Zhang, **Yuming Li**, Chenguang Ma
   
 [EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditioning](https://arxiv.org/abs/2407.08136)
 
-Zhiyuan Chen<sup>*</sup>, Jiajiong Cao<sup>*</sup>, Zhiquan Chen, **Yuming Li**, Chenguang Ma
+Zhiyuan Chen<sup>*</sup>, Jiajiong Cao<sup>*</sup>, Zhiquan Chen, **Yuming Li**<sup>✉</sup>, Chenguang Ma<sup>✉</sup>
 
 [**project**](https://antgroup.github.io/ai/echomimic/)&emsp;[**code**](https://github.com/antgroup/echomimic)&emsp;<a href='https://github.com/antgroup/echomimic'><img src='https://img.shields.io/github/stars/antgroup/echomimic.svg' height="15%"></a>
 
