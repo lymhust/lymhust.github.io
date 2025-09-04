@@ -28,7 +28,7 @@ redirect_from:
 - *2022.01-2023.09*, **Scene Digitization**. Human ReID, Small Object Detection and Recognization, 3D Reconstruction and Retrival etc.
 - *2020.12-present*, **Face Related**. Liveness Detection, Emotion Detection, Face Detection etc.
 - *2016.07-2020.11*, **Autonomous Driving**. Traffic Scene Detection and Recognition etc.
-- *2010.09-2016.07*, **Shearlet Related and Biological Signal Processing**. Image/Video Quality Assessment, Livness Detection, PPG Application etc. 
+- *2010.09-2016.07*, **Shearlet and Biological Signal Related**. Image/Video Quality Assessment, Livness Detection, PPG Application etc. 
 
 # 📈 Highlighted Open Source Projects
 
