@@ -106,29 +106,30 @@ Zhiyuan Chen<sup>*</sup>, Jiajiong Cao<sup>*</sup>, Zhiquan Chen, **Yuming Li**<
 1. 张默, **李宇明**, 史宗明 "[基于人工智能深度学习的腹针穴位辅助定位系统的研发.](https://zgze.cbpt.cnki.net/portal/journal/portal/client/paper/a4f3630803a82a36880bdb4b794ed270)" 中国针灸, Vol. 45, Issue 3, pp. 391-396, March 2025.
    
 **Patents**
-1. **李宇明**, 马晨光, 刘雨帆, 罗文阳, 娄金铭, 李兵, 胡卫明, ["一种事务数据处理方法、装置、存储介质及电子设备"](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui), CN Patent, 120386591A
+1. **李宇明**, 马晨光, 刘雨帆, 刘彤飞, ["数据集蒸馏方法及装置"](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui), CN Patent, 120807344A
+2. **李宇明**, 马晨光, 刘雨帆, 罗文阳, 娄金铭, 李兵, 胡卫明, ["一种事务数据处理方法、装置、存储介质及电子设备"](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui), CN Patent, 120386591A
 , 2025.
-2. 郭尚伟, 向涛, **李宇明**, 马晨光, ["后门检测方法和系统"](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui), CN Patent, 120105411A, 2025.
-3. 郭尚伟, 向涛, **李宇明**, 马晨光, ["基于分布式系统的模型训练方法、设备及系统"](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui), CN Patent, 120107723A, 2025.
-4. **李宇明**, 马晨光, 刘雨帆, 娄金铭, 罗文阳, 李兵, 胡卫明, ["图像生成方法、装置、设备与存储介质"](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui), CN Patent, 119941551A, 2025.
-5. <strong>李宇明</strong>, 朱军, 丁菁汀, 李亮,  <a href="https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui">"活体检测模型的训练方法、活体检测方法和系统"</a>,  CN Patent, 116468113A, 2023.
-6. <strong>李宇明</strong>, 丁菁汀, 李亮,  <a href="https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui">"一种活体检测方法和系统"</a>,  CN Patent, 116453231A, 2023.
-7. <strong>李宇明</strong>, 丁菁汀, 李亮,  <a href="https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui">"活体检测方法及系统"</a>,  CN Patent, 116189317A, 2023.
-8. <strong>李宇明</strong>, 丁菁汀, 李亮,  <a href="https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui">"攻击对象检测方法及装置、介质、设备及产品"</a>,  CN Patent, 115482589A, 2022.
-9. <strong>李宇明</strong>, 丁菁汀, 李亮,  <a href="https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui">"一种活体检测方法、装置、设备及介质"</a>,  CN Patent, 114821824A, 2022.
-10. <strong>李宇明</strong>,  <a href="https://patentimages.storage.googleapis.com/dd/e1/1a/3b716ebd3d679c/CN114696988A.pdf">"活体检测方法、装置、设备及系统"</a>,  CN Patent, 114696988B, 2022. (granted)
-11. <strong>李宇明</strong>, 刘国清, 郑伟, 杨广,  <a href="http://www.soopat.com/Patent/202010972488">"车道线实例聚类方法、装置、电子设备和存储介质"</a>,  CN Patent, 112084988B, 2020. (granted)
-12. <strong>李宇明</strong>, 刘国清, 郑伟, 杨广,  <a href="http://www.soopat.com/Patent/202011184329">"基于特征空间的车道线处理方法、装置、车载终端和介质"</a>,  CN Patent, 112001378B, 2020. (granted)
-13. <strong>李宇明</strong>, 刘国清, 董颖, 郑伟, 杨广,  <a href="http://www.soopat.com/Patent/202011012948">"车辆盲区检测处理方法、装置、车载终端和存储介质"</a>,  CN Patent, 111923857B, 2020. (granted)
-14. <strong>李宇明</strong>, 刘国清, 郑伟, 杨广,  <a href="https://patentimages.storage.googleapis.com/90/69/d7/76c78d68b3826c/CN111274926B.pdf">"图像数据筛选方法、装置、计算机设备和存储介质"</a>,  CN Patent, 111274926B, 2020. (granted)
-15. <strong>李宇明</strong>, 刘国清, 郑伟, 杨广, 敖争光, <a href="https://patentimages.storage.googleapis.com/12/a9/03/66af4626f363dc/CN111160370B.pdf">"车头位置估计方法、装置、计算机设备和存储介质"</a>,  CN Patent, 111160370B, 2020. (granted)
-16. <strong>李宇明</strong>, 刘国清, 郑伟, 杨广, 敖争光, <a href="http://www.soopat.com/Patent/201911314978">"泊车位检测方法、装置、计算机设备和存储介质"</a>, CN Patent, 111160172B, 2020. (granted)
-17. <strong>李宇明</strong>, 刘国清, 郑伟, 杨广, 敖争光, <a href="http://www.soopat.com/Patent/201911379944">"车道线检测方法、装置、计算机设备和存储介质"</a>, CN Patent, 111178245B, 2020. (granted)
-18. <strong>李宇明</strong>, 刘国清, 郑伟, 杨广, 敖争光, <a href="https://patentimages.storage.googleapis.com/b1/2e/aa/75f9c2929c35a9/CN111178253A.pdf">"自动驾驶的视觉感知方法、装置、计算机设备和存储介质"</a>, CN Patent, 111178253B, 2020. (granted)
-19. L. M. Po, M. Liu, Y. F. Yuen, <strong>Y. Li</strong>, Xu, X. Xu, et al, <a href="https://patentimages.storage.googleapis.com/d0/35/a6/26f6433b394940/US10789696.pdf">"Patch selection for neural network based no-reference image quality assessment"</a>, US Patent, 10789696B2, 2019. (granted)
-20. 布礼文, 刘孟洋, 袁耀辉, <strong>李宇明</strong>, 徐叙远等, <a href="http://www.soopat.com/Patent/201810798523">"用于训练神经网络的图像块的选择方法及图像质量评价方法"</a>, CN Patent, 110599439A, 2019.
-21. 王珏, 王斌, <strong>李宇明</strong>, 邢腾飞, 李成军, 苏奎峰, 陈仁, 向南, <a href="https://patentimages.storage.googleapis.com/5c/7d/33/175d4b224d94c0/CN108804983A.pdf">"交通信号灯状态识别方法、装置、车载控制终端及机动车"</a>, CN Patent, 108804983B, 2018. (granted)
-22. 邢腾飞, <strong>李宇明</strong>, 王珏, 王斌, <a href="https://patentimages.storage.googleapis.com/ff/dc/71/6501f3cd278be3/CN108305475B.pdf">"一种交通灯识别方法及装置"</a>, CN Patent, 108305475B, 2018. (granted)
+3. 郭尚伟, 向涛, **李宇明**, 马晨光, ["后门检测方法和系统"](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui), CN Patent, 120105411A, 2025.
+4. 郭尚伟, 向涛, **李宇明**, 马晨光, ["基于分布式系统的模型训练方法、设备及系统"](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui), CN Patent, 120107723A, 2025.
+5. **李宇明**, 马晨光, 刘雨帆, 娄金铭, 罗文阳, 李兵, 胡卫明, ["图像生成方法、装置、设备与存储介质"](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui), CN Patent, 119941551A, 2025.
+6. <strong>李宇明</strong>, 朱军, 丁菁汀, 李亮,  <a href="https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui">"活体检测模型的训练方法、活体检测方法和系统"</a>,  CN Patent, 116468113A, 2023.
+7. <strong>李宇明</strong>, 丁菁汀, 李亮,  <a href="https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui">"一种活体检测方法和系统"</a>,  CN Patent, 116453231A, 2023.
+8. <strong>李宇明</strong>, 丁菁汀, 李亮,  <a href="https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui">"活体检测方法及系统"</a>,  CN Patent, 116189317A, 2023.
+9. <strong>李宇明</strong>, 丁菁汀, 李亮,  <a href="https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui">"攻击对象检测方法及装置、介质、设备及产品"</a>,  CN Patent, 115482589A, 2022.
+10. <strong>李宇明</strong>, 丁菁汀, 李亮,  <a href="https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui">"一种活体检测方法、装置、设备及介质"</a>,  CN Patent, 114821824A, 2022.
+11. <strong>李宇明</strong>,  <a href="https://patentimages.storage.googleapis.com/dd/e1/1a/3b716ebd3d679c/CN114696988A.pdf">"活体检测方法、装置、设备及系统"</a>,  CN Patent, 114696988B, 2022. (granted)
+12. <strong>李宇明</strong>, 刘国清, 郑伟, 杨广,  <a href="http://www.soopat.com/Patent/202010972488">"车道线实例聚类方法、装置、电子设备和存储介质"</a>,  CN Patent, 112084988B, 2020. (granted)
+13. <strong>李宇明</strong>, 刘国清, 郑伟, 杨广,  <a href="http://www.soopat.com/Patent/202011184329">"基于特征空间的车道线处理方法、装置、车载终端和介质"</a>,  CN Patent, 112001378B, 2020. (granted)
+14. <strong>李宇明</strong>, 刘国清, 董颖, 郑伟, 杨广,  <a href="http://www.soopat.com/Patent/202011012948">"车辆盲区检测处理方法、装置、车载终端和存储介质"</a>,  CN Patent, 111923857B, 2020. (granted)
+15. <strong>李宇明</strong>, 刘国清, 郑伟, 杨广,  <a href="https://patentimages.storage.googleapis.com/90/69/d7/76c78d68b3826c/CN111274926B.pdf">"图像数据筛选方法、装置、计算机设备和存储介质"</a>,  CN Patent, 111274926B, 2020. (granted)
+16. <strong>李宇明</strong>, 刘国清, 郑伟, 杨广, 敖争光, <a href="https://patentimages.storage.googleapis.com/12/a9/03/66af4626f363dc/CN111160370B.pdf">"车头位置估计方法、装置、计算机设备和存储介质"</a>,  CN Patent, 111160370B, 2020. (granted)
+17. <strong>李宇明</strong>, 刘国清, 郑伟, 杨广, 敖争光, <a href="http://www.soopat.com/Patent/201911314978">"泊车位检测方法、装置、计算机设备和存储介质"</a>, CN Patent, 111160172B, 2020. (granted)
+18. <strong>李宇明</strong>, 刘国清, 郑伟, 杨广, 敖争光, <a href="http://www.soopat.com/Patent/201911379944">"车道线检测方法、装置、计算机设备和存储介质"</a>, CN Patent, 111178245B, 2020. (granted)
+19. <strong>李宇明</strong>, 刘国清, 郑伟, 杨广, 敖争光, <a href="https://patentimages.storage.googleapis.com/b1/2e/aa/75f9c2929c35a9/CN111178253A.pdf">"自动驾驶的视觉感知方法、装置、计算机设备和存储介质"</a>, CN Patent, 111178253B, 2020. (granted)
+20. L. M. Po, M. Liu, Y. F. Yuen, <strong>Y. Li</strong>, Xu, X. Xu, et al, <a href="https://patentimages.storage.googleapis.com/d0/35/a6/26f6433b394940/US10789696.pdf">"Patch selection for neural network based no-reference image quality assessment"</a>, US Patent, 10789696B2, 2019. (granted)
+21. 布礼文, 刘孟洋, 袁耀辉, <strong>李宇明</strong>, 徐叙远等, <a href="http://www.soopat.com/Patent/201810798523">"用于训练神经网络的图像块的选择方法及图像质量评价方法"</a>, CN Patent, 110599439A, 2019.
+22. 王珏, 王斌, <strong>李宇明</strong>, 邢腾飞, 李成军, 苏奎峰, 陈仁, 向南, <a href="https://patentimages.storage.googleapis.com/5c/7d/33/175d4b224d94c0/CN108804983A.pdf">"交通信号灯状态识别方法、装置、车载控制终端及机动车"</a>, CN Patent, 108804983B, 2018. (granted)
+23. 邢腾飞, <strong>李宇明</strong>, 王珏, 王斌, <a href="https://patentimages.storage.googleapis.com/ff/dc/71/6501f3cd278be3/CN108305475B.pdf">"一种交通灯识别方法及装置"</a>, CN Patent, 108305475B, 2018. (granted)
 
 # 🔍 Research Projects
 - *2019*, Core Member, "Research and Application of High-Performance and High-Reliability Domain Controller System." Guangdong Provincial Key Research and Development Project.
