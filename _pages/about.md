@@ -106,7 +106,7 @@ Zhiyuan Chen<sup>*</sup>, Jiajiong Cao<sup>*</sup>, Zhiquan Chen, **Yuming Li**<
 1. 张默, **李宇明**, 史宗明 "[基于人工智能深度学习的腹针穴位辅助定位系统的研发.](https://zgze.cbpt.cnki.net/portal/journal/portal/client/paper/a4f3630803a82a36880bdb4b794ed270)" 中国针灸, Vol. 45, Issue 3, pp. 391-396, March 2025.
    
 **Patents**
-1. **李宇明**, 马晨光, 刘雨帆, 刘彤飞, ["数据集蒸馏方法及装置"](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui), CN Patent, 120807344A
+1. **李宇明**, 马晨光, 刘雨帆, 刘彤飞, ["数据集蒸馏方法及装置"](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui), CN Patent, 120807344A, 2025.
 2. **李宇明**, 马晨光, 刘雨帆, 罗文阳, 娄金铭, 李兵, 胡卫明, ["一种事务数据处理方法、装置、存储介质及电子设备"](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui), CN Patent, 120386591A
 , 2025.
 3. 郭尚伟, 向涛, **李宇明**, 马晨光, ["后门检测方法和系统"](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui), CN Patent, 120105411A, 2025.
