@@ -18,7 +18,7 @@ redirect_from:
 - *2007.09-2011.06*, B.E. Dept. of Electronic Engineering, Huazhong University of Science and Technology.
 
 # 💻 Work Experience
-- *2020.12-present*, Staff Engineer, Alipay Terminal Technology Department, Ant Group.
+- *2020.12-present*, Staff Engineer, Alipay, Ant Group.
 - *2017.12-2020.12*, Researcher, Deep Learning Group, MiniEye.
 - *2016.07-2017.11*, Researcher, Autonomous Driving Lab, Tencent.
 - *2015.03-2015.08*, Visiting Scholar, Brain Matrix Lab, Tsinghua University.
