@@ -40,7 +40,7 @@ redirect_from:
 
 Rang Meng, Yan Wang, Weipeng Wu, Ruobing Zheng, **Yuming Li**<sup>✉</sup>, Chenguang Ma<sup>✉</sup>
 
-[**project**](https://antgroup.github.io/ai/echomimic_v3/)&emsp;[**code**](https://github.com/antgroup/echomimic_v3)&emsp;<a href='https://github.com/antgroup/echomimic_v3'><img src='https://img.shields.io/github/stars/antgroup/echomimic_v3' height="15%"></a>
+[**project**](https://antgroup.github.io/ai/echomimic_v3/)&emsp;[**code**](https://github.com/antgroup/echomimic_v3)&emsp;<a href='https://github.com/antgroup/echomimic_v3'><img src='https://img.shields.io/github/stars/antgroup/echomimic_v3.svg' height="15%"></a>
 
 </div>
 </div>
