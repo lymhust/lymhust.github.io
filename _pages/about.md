@@ -136,6 +136,9 @@ Zhiyuan Chen<sup>*</sup>, Jiajiong Cao<sup>*</sup>, Zhiquan Chen, **Yuming Li**<
 24. 邢腾飞, <strong>李宇明</strong>, 王珏, 王斌, <a href="https://patentimages.storage.googleapis.com/ff/dc/71/6501f3cd278be3/CN108305475B.pdf">"一种交通灯识别方法及装置"</a>, CN Patent, 108305475B, 2018. (granted)
 
 # 🔍 Research Projects
+- *2024*, Core Member, "Acceleration and Optimization Techniques for Image Generation Algorithms in Large-Scale Models." CAAI-AntGroup Fund.
+- *2022*, Core Member, "Core Cryptography-Driven Efficient Biometric Processing Technique." CCF-AntGroup Fund.
+- *2022*, Core Member, "Trusted Identification and Privacy Protection Technologies for Personal Biometric Information in Internet Finance." The "14th Five-Year Plan" National Key R&D Program Youth Scientist Project.
 - *2019*, Core Member, "Research and Application of High-Performance and High-Reliability Domain Controller System." Guangdong Provincial Key Research and Development Project.
 - *2018*, Core Member, "Multisensor Fusion and Big Data-based Perception System for Autonomous Driving Vehicle." Peacock Team Funding Fund of Shenzhen City.
 
