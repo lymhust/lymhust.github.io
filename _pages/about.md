@@ -25,7 +25,7 @@ redirect_from:
 - *2015.03-2015.08*, Visiting Scholar, Brain Matrix Lab, Tsinghua University.
 
 # 📄 Project Experience
-- *2025.12-present*, **Agent Related**. OpenClaw and associated applications.
+- *2025.12-present*, **LLM/VLM/Agent Related**. Domain-specific Training of LLMs and VLMs, Agentic AI etc.
 - *2023.09-present*, **AIGC Related**. Instruction Editing, Editing Evaluation, Audio-Driven Talking Human, Image/Video Generation, UI Generation etc.
 - *2022.01-2023.09*, **Scene Digitization**. Human ReID, Small Object Detection and Recognization, 3D Reconstruction and Retrival etc.
 - *2020.12-present*, **Face Related**. Liveness Detection, Emotion Detection, Face Detection etc.
