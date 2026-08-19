@@ -132,7 +132,7 @@ Zhiyuan Chen<sup>*</sup>, Jiajiong Cao<sup>*</sup>, Zhiquan Chen, **Yuming Li**<
 7. <strong>李宇明</strong>, 朱军, 丁菁汀, 李亮,  <a href="https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui">"活体检测模型的训练方法、活体检测方法和系统"</a>,  CN Patent, 116468113A, 2023.
 8. <strong>李宇明</strong>, 丁菁汀, 李亮,  <a href="https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui">"一种活体检测方法和系统"</a>,  CN Patent, 116453231A, 2023.
 9. <strong>李宇明</strong>, 丁菁汀, 李亮,  <a href="https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui">"活体检测方法及系统"</a>,  CN Patent, 116189317A, 2023.
-10. <strong>李宇明</strong>, 丁菁汀, 李亮,  <a href="https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui">"攻击对象检测方法及装置、介质、设备及产品"</a>,  CN Patent, 115482589A, 2022.
+10. <strong>李宇明</strong>, 丁菁汀, 李亮,  <a href="https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui">"攻击对象检测方法及装置、介质、设备及产品"</a>,  CN Patent, 115482589B, 2022. (granted)
 11. <strong>李宇明</strong>, 丁菁汀, 李亮,  <a href="https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui">"一种活体检测方法、装置、设备及介质"</a>,  CN Patent, 114821824A, 2022.
 12. <strong>李宇明</strong>,  <a href="https://patentimages.storage.googleapis.com/dd/e1/1a/3b716ebd3d679c/CN114696988A.pdf">"活体检测方法、装置、设备及系统"</a>,  CN Patent, 114696988B, 2022. (granted)
 13. <strong>李宇明</strong>, 刘国清, 郑伟, 杨广,  <a href="http://www.soopat.com/Patent/202010972488">"车道线实例聚类方法、装置、电子设备和存储介质"</a>,  CN Patent, 112084988B, 2020. (granted)
