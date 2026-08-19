@@ -129,7 +129,7 @@ Zhiyuan Chen<sup>*</sup>, Jiajiong Cao<sup>*</sup>, Zhiquan Chen, **Yuming Li**<
 4. 郭尚伟, 向涛, **李宇明**, 马晨光, ["后门检测方法和系统"](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui), CN Patent, 120105411A, 2025.
 5. 郭尚伟, 向涛, **李宇明**, 马晨光, ["基于分布式系统的模型训练方法、设备及系统"](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui), CN Patent, 120107723A, 2025.
 6. **李宇明**, 马晨光, 刘雨帆, 娄金铭, 罗文阳, 李兵, 胡卫明, ["图像生成方法、装置、设备与存储介质"](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui), CN Patent, 119941551A, 2025.
-7. <strong>李宇明</strong>, 朱军, 丁菁汀, 李亮,  <a href="https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui">"活体检测模型的训练方法、活体检测方法和系统"</a>,  CN Patent, 116468113A, 2023.
+7. <strong>李宇明</strong>, 朱军, 丁菁汀, 李亮,  <a href="https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui">"活体检测模型的训练方法、活体检测方法和系统"</a>,  CN Patent, 116468113B, 2023. (granted)
 8. <strong>李宇明</strong>, 丁菁汀, 李亮,  <a href="https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui">"一种活体检测方法和系统"</a>,  CN Patent, 116453231A, 2023.
 9. <strong>李宇明</strong>, 丁菁汀, 李亮,  <a href="https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui">"活体检测方法及系统"</a>,  CN Patent, 116189317A, 2023.
 10. <strong>李宇明</strong>, 丁菁汀, 李亮,  <a href="https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui">"攻击对象检测方法及装置、介质、设备及产品"</a>,  CN Patent, 115482589B, 2022. (granted)
