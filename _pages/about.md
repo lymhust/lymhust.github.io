@@ -34,49 +34,6 @@ redirect_from:
 
 # 📈 Highlighted Open Source Projects
 
-<style>
-.highlighted-projects {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 24px;
-  align-items: start;
-}
-
-.highlighted-projects .paper-box {
-  display: flex;
-  flex-direction: column;
-  width: 100%;
-  margin: 0;
-}
-
-.highlighted-projects .paper-box-image,
-.highlighted-projects .paper-box-text {
-  width: 100%;
-}
-
-.highlighted-projects .paper-box-image {
-  margin: 0 0 12px;
-}
-
-.highlighted-projects .paper-box-image img {
-  display: block;
-  width: 100%;
-  height: auto;
-}
-
-.highlighted-projects .paper-box-text {
-  padding: 0;
-}
-
-@media (max-width: 720px) {
-  .highlighted-projects {
-    grid-template-columns: 1fr;
-  }
-}
-</style>
-
-<div class="highlighted-projects">
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/echomimic_v3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -111,8 +68,6 @@ Zhiyuan Chen<sup>*</sup>, Jiajiong Cao<sup>*</sup>, Zhiquan Chen, **Yuming Li**<
 [**project**](https://antgroup.github.io/ai/echomimic/)&emsp;[**code**](https://github.com/antgroup/echomimic)&emsp;<a href='https://github.com/antgroup/echomimic'><img src='https://img.shields.io/github/stars/antgroup/echomimic' height="15%"></a>
 
 </div>
-</div>
-
 </div>
 
 # 📝 Publications
