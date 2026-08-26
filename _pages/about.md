@@ -34,6 +34,18 @@ redirect_from:
 
 # 📈 Highlighted Open Source Projects
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2607.23955</div><img src='images/eviback.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[EviBack: Search-Agent Reinforcement Learning via Evidence-Constrained Teacher Backoff](https://arxiv.org/pdf/2607.23955)
+
+Xiao Ma, Zhiquan Hu, Yi Wei, Chenchen Zhao, Yijun Chen, Jicheng Zhao, **Yuming Li**<sup>✉</sup>, Chuang Dai
+
+[**project**](https://chery-nextai.github.io/eviback/)&emsp;[**code**](https://github.com/chery-nextai/eviback/)&emsp;<a href='https://github.com/chery-nextai/eviback/'><img src='https://img.shields.io/github/stars/chery-nextai/eviback' height="15%"></a>
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/echomimic_v3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
