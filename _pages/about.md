@@ -34,7 +34,7 @@ redirect_from:
 
 # 📈 Highlighted Open Source Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2607.23955</div><img src='images/eviback.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/eviback.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [EviBack: Search-Agent Reinforcement Learning via Evidence-Constrained Teacher Backoff](https://arxiv.org/pdf/2607.23955)
