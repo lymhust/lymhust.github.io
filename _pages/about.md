@@ -100,7 +100,7 @@ Zhiyuan Chen<sup>*</sup>, Jiajiong Cao<sup>*</sup>, Zhiquan Chen, **Yuming Li**<
 - Lou, J., Luo, W., Liu, Y., Li, B., Ding, X., Hu, W., **Li, Y.**, Ma, C. "[Token Caching for Diffusion Transformer Acceleration.](https://arxiv.org/abs/2409.18523)" arXiv preprint arXiv:2409.18523 (2024).
 
 **VLA/World Model/World Action Model**
-- Xu, Y., Yang, Y., Fan, Z., Liu, Y., **Li, Y.**, Li, B., & Zhang, Z. "[QVLA: Not All Channels Are Equal in Vision-Language-Action Model's Quantization.](https://arxiv.org/pdf/2602.03782)" The Fourteenth International Conference on Learning Representations. 2026. ([code](https://github.com/AutoLab-SAI-SJTU/QVLA))
+- Xu, Y., Yang, Y., Fan, Z., Liu, Y., **Li, Y.**, Li, B., & Zhang, Z. "[QVLA: Not All Channels Are Equal in Vision-Language-Action Model's Quantization.](https://proceedings.iclr.cc/paper_files/paper/2026/file/fa064215307efaad75bebc7a2e3194a4-Paper-Conference.pdf)" The Fourteenth International Conference on Learning Representations. 2026. ([code](https://github.com/AutoLab-SAI-SJTU/QVLA))
 
 **Autonomous Driving**
 - **Y. Li**, J. Wang, T. Xing, T. Liu, C. Li, K. Su, &quot;<a class="dhtgD aw5Odc" href="http://www.google.com/url?q=http%3A%2F%2Fautopilot.qq.com%2FICIP2017%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFxg3aL78MlXolNKo01QqaK5fFBXg" target="_blank">TAD16K: an enhanced benchmark for autonomous driving</a>.&quot; IEEE International Conference on Image Processing (ICIP), September 2017. ([code and datasets](https://github.com/lymhust/TAD16K_source?tab=readme-ov-file))
