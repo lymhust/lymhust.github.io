@@ -18,7 +18,7 @@ redirect_from:
 - *2007.09-2011.06*, B.E. Dept. of Electronic Engineering, Huazhong University of Science and Technology.
 
 # 💻 Work Experience
-- *2026.05-present*, Senior Staff Engineer, NextAI Research Institute, Chery Group.
+- *2026.05-present*, Senior Staff Engineer, NEXTAI Research Institute, Chery Group.
 - *2020.12-2026.05*, Staff Engineer, Alipay, Ant Group.
 - *2017.12-2020.12*, Researcher, Deep Learning Group, MiniEye.
 - *2016.07-2017.11*, Researcher, Autonomous Driving Lab, Tencent.
