@@ -83,9 +83,9 @@ Zhiyuan Chen<sup>*</sup>, Jiajiong Cao<sup>*</sup>, Zhiquan Chen, **Yuming Li**<
 </div>
 
 # 📰 Selected Official Media Coverage
-- [EviBack. AI 搜索答错就白学？一种让“失败过程”也能产生价值的新方法](https://mp.weixin.qq.com/s/7muWbFMkXqwVC1efvURReg)
-- [EchoMimicV2. 通向赛博未来：EchoMimicV2半身数字人生成](https://mp.weixin.qq.com/s/1AQRaNc-em95tMwXiRij5A)
-- [EchoMimic. 蚂蚁开源生成式数字人算法EchoMimic，可用音频驱动人像动画生成](https://mp.weixin.qq.com/s/zVTZ35d1RAiNMRx-VBCzrw)
+- [**EviBack**. AI 搜索答错就白学？一种让“失败过程”也能产生价值的新方法](https://mp.weixin.qq.com/s/7muWbFMkXqwVC1efvURReg)
+- [**EchoMimicV2**. 通向赛博未来：EchoMimicV2半身数字人生成](https://mp.weixin.qq.com/s/1AQRaNc-em95tMwXiRij5A)
+- [**EchoMimic**. 蚂蚁开源生成式数字人算法EchoMimic，可用音频驱动人像动画生成](https://mp.weixin.qq.com/s/zVTZ35d1RAiNMRx-VBCzrw)
 
 # 📝 Publications
 
