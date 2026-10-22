@@ -150,7 +150,18 @@
         <a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.twitter %}
-        <a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i></a>
+        <a href="https://x.com/{{ author.twitter }}" aria-label="X">
+          <img src="{{ '/images/x.svg' | relative_url }}"
+               alt="" width="18" height="18"
+               style="vertical-align: middle; object-fit: contain;">
+        </a>
+      {% endif %}
+      {% if author.xiaohongshu %}
+        <a href="{{ author.xiaohongshu }}" aria-label="小红书">
+          <img src="{{ '/images/xiaohongshu.svg' | relative_url }}"
+               alt="" width="18" height="18"
+               style="vertical-align: middle; object-fit: contain;">
+        </a>
       {% endif %}
       {% if author.facebook %}
         <a href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i></a>
