@@ -47,6 +47,16 @@
           </a>
         </li>
       {% endif %}
+      {% if author.xiaohongshu %}
+        <li>
+          <a href="{{ author.xiaohongshu }}">
+            <img src="{{ '/images/xiaohongshu.svg' | relative_url }}"
+                 alt="" width="18" height="18"
+                 style="vertical-align: middle; object-fit: contain;">
+            小红书
+          </a>
+        </li>
+      {% endif %}
       {% if author.facebook %}
         <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
       {% endif %}
