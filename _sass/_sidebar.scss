@@ -268,3 +268,12 @@
     display: none;
   }
 }
+
+/* 个人资料中的社交图标 */
+.author__urls img,
+.author__urls_sm img {
+  width: 16px;
+  height: 16px;
+  object-fit: contain;
+  vertical-align: middle;
+}
