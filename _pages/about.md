@@ -11,7 +11,9 @@ redirect_from:
 <span class='anchor' id='profile'></span>
 
 <div style="text-align:justify"> Yuming Li is a Senior Staff Engineer at Chery Group, where he leads the General Foundation Models Lab at the NEXTAI Research Institute and oversees the development of CheryMind, a family of foundation models for the automotive industry. His recent work includes **CheryMind-CAD**, a multimodal model used to interpret and review engineering drawings at Chery, and **CheryMind-WAM**, a world–action model that learns to anticipate changes in driving scenes to improve trajectory planning. He also helped develop **EviBack**, an open-source reinforcement learning method that improves answer accuracy and reduces redundant searches in AI search agents.
+  
 Previously, at Ant Group, Yuming led the development of **EchoMimic**, an open-source series for audio-driven human animation with over 10,000 GitHub stars across its repositories. He also built face anti-spoofing models for Alipay’s face payment system. Earlier in his career, he developed visual perception systems for autonomous driving at MINIEYE and Tencent, including a perception system at MINIEYE.
+
 Yuming received his Ph.D. in Electronic Engineering from City University of Hong Kong in 2016 under the supervision of Prof. Lai-Man Po. He earned his B.E. and M.E. degrees from Huazhong University of Science and Technology in 2011 and 2013, respectively, under the supervision of Prof. Hanqiang Cao.</div>
 
 # 📖 Educations
